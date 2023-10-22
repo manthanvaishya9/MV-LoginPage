@@ -1,0 +1,38 @@
+
+
+input[type="text"],input[type="password"],checkbox
+{
+	font-family:calibari;
+	color:black;
+	font-size: 20px;
+	width: 200px;
+	display: inline-block;
+	box-sizing: border-box;
+	background-color:yellowgreen;
+	padding: 12px, 20px;
+	border: 1px;
+
+	
+}
+table
+{
+	font-family: arial;
+
+
+
+	
+	font-size: 20px;
+	color:blue;
+	border-spacing: 30px;
+	
+}
+input[type="submit"],input[type="button"]
+{
+	font-family: arial;
+	font-size: 25px;
+	width:156px;
+	height:35px;
+	font-style: italic;
+	border-color: blue;
+	color:crimson;
+}
